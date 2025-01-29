@@ -6,6 +6,14 @@ Inquiries at **mtopaper@gmail.com**
 
 ## Current Projects:
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+*Eternal vigilance is the price of liberty.*
+
 <!--
 **MtoPaper/MtoPaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
