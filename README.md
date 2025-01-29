@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I’m currently working on 🔭
+Waseda University *早稲田大学* 2028.
 
-I’m currently learning nothing
+Inquiries at **mtopaper@gmail.com**
+
+## Current Projects:
 
 <!--
 **MtoPaper/MtoPaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
